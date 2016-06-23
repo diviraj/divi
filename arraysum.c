@@ -12,7 +12,7 @@ int main(void)
 			for(k=0;k<n;k++)
 			{
 				if(a[i]+a[j]==a[k])
-					printf("%d %d %d",i,j,k);
+					printf("%d %d %d\n",i,j,k);
 			}
 		}
 	}
