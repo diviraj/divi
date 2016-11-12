@@ -1,10 +1,9 @@
 #include <stdio.h>
 int main(void)
 {
-	int c,i,m;
+	int c,i,k;
 	int a=0,b=1;
-	printf("Enter the last value\n");
-	scanf("%d",&m);
+	scanf("%d",&k);
 	printf("%d %d ",a,b);
 	for(i=0;i<m;i++)
 	{
